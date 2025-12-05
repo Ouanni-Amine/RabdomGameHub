@@ -96,7 +96,9 @@ make re
 ## 🕹️ Controls / Instructions
 
 • Choose a number from the provided list.
+
 • Press T if you want to exit one of the game loops.
+
 • Press Ctrl+C or Ctrl+D to exit the game entirely.
 
 NB: Choosing an out of range number or invalid input is already handled and parsed by the program. An error message will be shown to you.
