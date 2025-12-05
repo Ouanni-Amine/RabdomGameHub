@@ -13,7 +13,7 @@
 - [📁 Project Structure](#-project-structure)
 - [⚙️ How to Compile](#%EF%B8%8F-how-to-compile)
 - [🛠 How to Use](#-how-to-use)
-- [🕹️ Controls / Instructions](#-controls--instructions)
+- [🕹️ Controls / Instructions](#%EF%B8%8F-controls--instructions)
 
 ## 📄 Description
 
